@@ -1,6 +1,8 @@
 ---
-title: Ucoomerce Documentação
+title: Ucommer Documentação
 ---
+
+title: Ucoomerce Documentação
 
 # Ucommerce Documentação
 
