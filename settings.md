@@ -15,7 +15,7 @@ getSettings("typo_de_configuração", "posição_do_campo");
 ```
 
 ```php+HTML
-// ============================= Pegar todas as configurações
+/* =========== Pegar todas as configurações =========== */
 <?php echo getSettings("all"); ?>
     /*	==== Exempplo de retorno
     	array(11) {
@@ -87,7 +87,7 @@ getSettings("typo_de_configuração", "posição_do_campo");
 ```
 
 ```php+HTML
-// ============================= Pegar todas as configurações de um tipo específico
+/* =========== Pegar todas as configurações de um tipo específico =========== */
     
     <?php echo getSettings("rede_sociais", "all"); ?>
     
@@ -110,14 +110,12 @@ getSettings("typo_de_configuração", "posição_do_campo");
 ```
 
 ```php+HTML
-  // ============================= Pegar valor de um configuração específica
+  /* =========== Pegar valor de um configuração específica =========== */
     
     <?php echo getSettings("rede_sociais", 3); ?>
     
     /* ==== Exempplo de retorno
-    
     	string(7) "..."
-    	
 	*/
 ```
 
