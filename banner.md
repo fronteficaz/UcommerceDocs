@@ -20,6 +20,18 @@ Para carregar os banners, será enviado uma array com os parâmetro desejados.
     "category" => "banner-home",
     "format" => "slide"
 )); ?>
+    
+    
+    /* Exemplo de retorno
+    	<div class="ucbanner ucslide">
+    		<div class="ucbanner_content">
+        		<img src="https://www.enderecodaloja.com.br/wordpress/wp-content/uploads/2019/03/banner_home_03.png">
+   			</div>
+    		<div class="ucbanner_content">
+        		<img src="https://www.enderecodaloja.com.br/wordpress/wp-content/uploads/2019/03/banner_home_02.png">
+            </div>
+        </div>
+    */
 ```
 
 
