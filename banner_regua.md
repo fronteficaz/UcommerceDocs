@@ -31,10 +31,12 @@ Após a alteração serão exibidos as configurações definidas no painel.
 	*/
 ?>
 ```
+
 | Parametros |      Valores      |
 | :--------: | :---------------: |
 |   itens    |        all        |
 |   device   | Desktop ou Mobile |
+
 
 Ira retornar todos os itens do banner régua se tiverem com o status ativos(```true```).
 
@@ -51,6 +53,7 @@ Ira retornar todos os itens do banner régua se tiverem com o status ativos(```t
 	*/
 ?>
 ```
+
 | Parametros |      Valores      |
 | :--------: | :---------------: |
 |   Itens    |     1 . . . 4     |
