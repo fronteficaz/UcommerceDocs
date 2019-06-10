@@ -63,6 +63,6 @@ Causo algum dos itens esteja marcado para não exibir, não será retornado nenh
 
 Por default eles são configurados como ``` true```, se as configurações do painel do administrador não forem alteradas.
 
-Após a alteração serão exibidos as configurações definidas no painel.
+Após a alteração serão exibidos as configurações definidas no painel. 
 
 ## [< voltar para home](/UcommerceDocs)
