@@ -1,5 +1,7 @@
 # Ucommerce - Plugin - Settings
 
+## [< voltar para home](/UcommerceDocs)
+
 ## Pegar os itens de configurações
 
 |    TIPO DE PARAMETROS    |       VALORES        |
@@ -112,3 +114,5 @@
     	
 	*/
 ```
+
+## [< voltar para home](/UcommerceDocs)
