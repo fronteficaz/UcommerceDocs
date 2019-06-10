@@ -1,9 +1,5 @@
 # Ucommerce - Plugins - Banner Régua
 
-[TOC]
-
-
-
 ## Inserir o banner régua
 
 ### Para verificar se o banner régua esta ativo
@@ -37,6 +33,37 @@ Após a alteração serão exibidos as configurações definidas no painel.
 | :--------: | :---------------: |
 |   itens    |        all        |
 |   device   | Desktop ou Mobile |
+
+<table>
+	<thead>
+		<tr>
+			<th>
+				Parametros
+			</th>
+			<th>
+				Valores
+			</th>
+		</tr>
+	</thead>
+	</tbody>
+		<tr>
+			<td>
+				itens
+			</td>
+			<td>
+				all
+			</td>
+		</tr>
+		<tr>
+			<td>
+				device
+			</td>
+			<td>
+				Desktop ou Mobile
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 Ira retornar todos os itens do banner régua se tiverem com o status ativos(```true```).
 
