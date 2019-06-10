@@ -36,6 +36,8 @@ Após a alteração serão exibidos as configurações definidas no painel.
 
 Ira retornar todos os itens do banner régua se tiverem com o status ativos(```true```).
 
+------
+
 ### Para pegar um item especifico do banner régua
 
 ```php
