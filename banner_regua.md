@@ -15,7 +15,7 @@
 ```
 Causo o banner régua não esteja ativo, ele não retornara nenhum item.
 
-Por default o Banner régua vem configurado como ```true```, se as configurações do painel do administrador não forem alteradas.
+Por default o Banner régua vem configurado como `true`, se as configurações do painel do administrador não forem alteradas.
 
 Após a alteração serão exibidos as configurações definidas no painel. 
 
@@ -38,7 +38,7 @@ Após a alteração serão exibidos as configurações definidas no painel.
 |   device   | Desktop ou Mobile |
 
 
-Ira retornar todos os itens do banner régua se tiverem com o status ativos(```true```).
+Ira retornar todos os itens do banner régua se tiverem com o status ativos(`true`).
 
 ------
 
@@ -61,8 +61,8 @@ Ira retornar todos os itens do banner régua se tiverem com o status ativos(```t
 
 Causo algum dos itens esteja marcado para não exibir, não será retornado nenhum parâmetro, apenas os itens ativos serão exibidos.
 
-Por default eles são configurados como ``` true```, se as configurações do painel do administrador não forem alteradas.
+Por default eles são configurados como ` true`, se as configurações do painel do administrador não forem alteradas.
 
-Após a alteração serão exibidos as configurações definidas no painel. 
+Após a alteração serão exibidos as configurações definidas no painel.
 
 ## [< voltar para home](/UcommerceDocs)
