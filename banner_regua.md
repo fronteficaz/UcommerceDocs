@@ -61,7 +61,7 @@ Ira retornar todos os itens do banner régua se tiverem com o status ativos(`tru
 
 Causo algum dos itens esteja marcado para não exibir, não será retornado nenhum parâmetro, apenas os itens ativos serão exibidos.
 
-Por default eles são configurados como ` true`, se as configurações do painel do administrador não forem alteradas.
+Por default eles são configurados como `true`, se as configurações do painel do administrador não forem alteradas.
 
 Após a alteração serão exibidos as configurações definidas no painel.
 
