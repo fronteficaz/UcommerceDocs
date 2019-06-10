@@ -1,6 +1,6 @@
 # Ucommerce - Plugins - Banner Régua
 
-## Inserir o banner régua
+## [< voltar para home](/UcommerceDocs)Inserir o banner régua
 
 ### Para verificar se o banner régua esta ativo
 ```php
@@ -59,3 +59,5 @@ Causo algum dos itens esteja marcado para não exibir, não será retornado nenh
 Por default eles são configurados como ``` true```, se as configurações do painel do administrador não forem alteradas.
 
 Após a alteração serão exibidos as configurações definidas no painel.
+
+## [< voltar para home](/UcommerceDocs)
