@@ -1,6 +1,8 @@
 # Ucommerce - Plugins - Banner Régua
 
-## [< voltar para home](/UcommerceDocs)Inserir o banner régua
+## [< voltar para home](/UcommerceDocs)
+
+## Inserir o banner régua
 
 ### Para verificar se o banner régua esta ativo
 ```php
