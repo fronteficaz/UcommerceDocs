@@ -1,24 +1,5 @@
 # Ucommerce - Plugins - Banner Régua
 
-## Inserir o banner régua
-
-### Para verificar se o banner régua esta ativo
-```php
-<?php
-	banners("bannerRuler") -> getAtv("desktop"); // Para banners no desktop
-	// Retorna true ou false
-	banners("bannerRuler") -> getAtv("mobile");	// Para banners no mobile
-	// Retorna true ou false
-?>
-```
-Causo o banner régua não esteja ativo, ele não retornara nenhum item.
-
-Por default o Banner régua vem configurado como ```true```, se as configurações do painel do administrador não forem alteradas.
-
-Após a alteração serão exibidos as configurações definidas no painel. 
-
-------
-
 ### Para pegar todos os itens
 
 ```php
