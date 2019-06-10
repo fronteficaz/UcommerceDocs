@@ -1,5 +1,11 @@
 # Ucommerce - Plugins - Banner Régua
 
+
+
+[TOC]
+
+
+
 ## Inserir o banner régua
 
 ### Para verificar se o banner régua esta ativo
