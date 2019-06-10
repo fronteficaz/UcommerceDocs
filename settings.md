@@ -4,11 +4,11 @@
 
 ## Pegar os itens de configurações
 
-|    TIPO DE PARAMETROS    |       VALORES        |
-| :--------------------: | :------------------: |
-| Todas as configurações | ` getSettings("all") ` |
-| Todos os valores de uma configuração específica | ` getSettings("rede_sociais", "all") ` |
-| Valor de uma configuração específica e de uma posição específica | ` getSettings("rede_sociais", 3) ` |
+| TIPO DE PARAMETROS                                           |                                VALORES |
+| :----------------------------------------------------------- | -------------------------------------: |
+| Todas as configurações                                       |                 ` getSettings("all") ` |
+| Todos os valores de uma configuração específica              | ` getSettings("rede_sociais", "all") ` |
+| Valor de uma configuração específica e de uma posição específica |     ` getSettings("rede_sociais", 3) ` |
 
 ```php
 // getSettings("typo_de_configuração", "posição_do_campo");
