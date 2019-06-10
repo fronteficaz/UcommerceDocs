@@ -11,10 +11,8 @@
 | Valor de uma configuração específica e de uma posição específica |     ` getSettings("rede_sociais", 3) ` |
 
 ```php+HTML
-// getSettings("typo_de_configuração", "posição_do_campo");
+getSettings("typo_de_configuração", "posição_do_campo");
 ```
-
-
 
 ```php+HTML
 // ============================= Pegar todas as configurações
@@ -86,8 +84,10 @@
           }
         }
     */
-    
-    // ============================= Pegar todas as configurações de um tipo específico
+```
+
+```php+HTML
+// ============================= Pegar todas as configurações de um tipo específico
     
     <?php echo getSettings("rede_sociais", "all"); ?>
     
@@ -107,8 +107,10 @@
         }
     
     */
-    
-    // ============================= Pegar valor de um configuração específica
+```
+
+```php+HTML
+  // ============================= Pegar valor de um configuração específica
     
     <?php echo getSettings("rede_sociais", 3); ?>
     
