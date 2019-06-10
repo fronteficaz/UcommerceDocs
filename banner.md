@@ -10,7 +10,17 @@ Para carregar os banners, será enviado uma array com os parâmetro desejados.
 | ---------- | -----------------------------------------------------------: |
 | category   | `banner-home` (tipo de banner), este valor é definido no painel de admin. Em banners e em gerenciar categoria. Para exibir todas as categorias pode ser colocado o parâmetro `all` |
 | format     | `slide` este parâmetro não é obrigatório, se nele for colocado `slide` a coleção de banner será transformado em um carrossel |
-|            |                                                              |
+
+------
+
+### Exemplo
+
+```php
+<?php banners('banners') -> getBanners(array(
+    "category" => "banner-home",
+    "format" => "slide"
+)); ?>
+```
 
 
 
