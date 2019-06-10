@@ -2,6 +2,7 @@
 
 ## LINKS
 
-- [Banner Régua](/banner_regua)
-- Banners
-- Settings
+- [Banner Régua](banner_regua)
+- [Banners](banner)
+- [Settings](settings)
+
